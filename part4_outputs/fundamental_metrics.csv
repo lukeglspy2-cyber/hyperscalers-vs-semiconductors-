@@ -1,0 +1,11 @@
+﻿event_id,metric,value,units,status,reported_date
+E02,Regional grid operators in FERC large-load review,6,operators,Directive / review,2026-06-18
+E05,Alphabet 2026 CapEx guidance midpoint,200,USD billions,Company forecast,2026-07-22
+E05,Change in Alphabet 2026 CapEx guidance midpoint,15,USD billions,Guidance revision,2026-07-22
+E10,Amazon planned Louisiana data-center investment,18,USD billions,Planned investment,2026-08-18
+E10,Incremental planned Louisiana data-center investment,6,USD billions,Revised plan,2026-08-18
+E16,Amazon 2026 cash CapEx expectation,220,USD billions,Company forecast,2026-10-29
+E17,Google planned Wyoming data-center investment,17,USD billions,Planned investment,2026-11-05
+E17,Google Wyoming contracted fuel-cell development,702,megawatts,Planned power capacity,2026-11-05
+E18,PJM existing projected interconnection study timeline,2,years,PJM comparison baseline,2026-11-16
+E18,PJM proposed Fast Energization study timeline,1,years,Proposal (not implementation),2026-11-16
